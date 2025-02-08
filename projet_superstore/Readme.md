@@ -1,5 +1,12 @@
-## Objectif du projet 
-### **Explication des variables**  
+
+# 📌 <span style="color:orange;"> Objectif du Projet  
+**Identifier les facteurs qui influencent les performances commerciales**
+---
+**Problématique métier** : 
+Une entreprise souhaite comprendre les interactions entre sesproduits, ses performances régionales et ses marges pour optimiser sastratégie commerciale.
+
+## Explication des Variables 
+
    Date de commande : Date de commande du produit.    
    Date d’expédition : date d’expédition du produit.  
    Mode d’expédition : Mode d’expédition spécifié par le client.    
