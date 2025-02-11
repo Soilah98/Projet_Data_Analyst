@@ -6,7 +6,7 @@
 Une entreprise souhaite comprendre les interactions entre sesproduits, ses performances régionales et ses marges pour optimiser sastratégie commerciale.
 
 
-<a href="https://www.google.com" target="_blank">Voir le projet</a>
+<a href="https://colab.research.google.com/github/Soilah98/Projet_Data_Analyst/blob/main/projet_Superstore.ipynb" target="_blank">Voir le projet</a>
 
 ## Explication des Variables 
 
